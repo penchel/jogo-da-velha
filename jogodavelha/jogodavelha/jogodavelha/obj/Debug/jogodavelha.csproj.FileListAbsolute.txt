@@ -1,0 +1,8 @@
+H:\jogodavelha\jogodavelha\jogodavelha\bin\Debug\jogodavelha.exe.config
+H:\jogodavelha\jogodavelha\jogodavelha\bin\Debug\jogodavelha.exe
+H:\jogodavelha\jogodavelha\jogodavelha\bin\Debug\jogodavelha.pdb
+H:\jogodavelha\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.AssemblyReference.cache
+H:\jogodavelha\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.SuggestedBindingRedirects.cache
+H:\jogodavelha\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.CoreCompileInputs.cache
+H:\jogodavelha\jogodavelha\jogodavelha\obj\Debug\jogodavelha.exe
+H:\jogodavelha\jogodavelha\jogodavelha\obj\Debug\jogodavelha.pdb
